@@ -232,3 +232,5 @@ Thank you for exploring the **Awesome Typography & Typeface Collection**! If thi
 - ☕ **Sponsor the Maintainer**: Support ongoing curation, open-source documentation, and future tool development via the [GitHub Sponsors Dashboard](https://github.com/sponsors/ishandutta2007).
 
 Let's make digital typography beautiful, performant, and open for everyone! 🚀
+# Awesome-Typography-Typeface-Collection
+
