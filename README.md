@@ -68,30 +68,30 @@ Open-source typefaces and self-hosting tools give developers and designers unres
 
 ### ⭐ Open-Source Projects Sorted by Stars
 
-Below is the collection of top open-source typography repositories and typeface families, ranked in descending order by **GitHub Star Count**:
+Below is the collection of top open-source typography repositories and typeface families, ranked in descending order by **GitHub Stars_Count**:
 
-| # | 🔤 Project / Typeface | 🌟 GitHub Star Badge (Social) | 📜 License | 🎯 Category / Focus |
+| # | 🔤 Project / Typeface | 🌟 GitHub Stars_Badge (Social) | 📜 License | 🎯 Category / Focus |
 | :---: | :--- | :--- | :---: | :--- |
-| 1 | **Fira Code** | [![GitHub stars](https://img.shields.io/github/stars/tonsky/FiraCode?style=social&color=white)](https://github.com/tonsky/FiraCode/stargazers) | OFL 1.1 | Free monospaced font with programming ligatures for code editors |
-| 2 | **Maple Mono** | [![GitHub stars](https://img.shields.io/github/stars/subframe7536/maple-font?style=social&color=white)](https://github.com/subframe7536/maple-font/stargazers) | OFL 1.1 | Rounded corner monospace font with ligatures and Nerd Font glyphs |
-| 3 | **Cascadia Code** | [![GitHub stars](https://img.shields.io/github/stars/microsoft/cascadia-code?style=social&color=white)](https://github.com/microsoft/cascadia-code/stargazers) | OFL 1.1 | Microsoft's modern coding font with variable weights & terminal ligatures |
-| 4 | **Iosevka** | [![GitHub stars](https://img.shields.io/github/stars/be5invis/Iosevka?style=social&color=white)](https://github.com/be5invis/Iosevka/stargazers) | OFL 1.1 | Slender, highly customizable monospace font family for programming & CJK |
-| 5 | **Google Fonts** | [![GitHub stars](https://img.shields.io/github/stars/google/fonts?style=social&color=white)](https://github.com/google/fonts/stargazers) | OFL / Apache | The world's largest open-source font catalog (1,500+ families) |
-| 6 | **Source Code Pro** | [![GitHub stars](https://img.shields.io/github/stars/adobe-fonts/source-code-pro?style=social&color=white)](https://github.com/adobe-fonts/source-code-pro/stargazers) | OFL 1.1 | Adobe's monospaced typeface family designed for IDEs and terminal environments |
-| 7 | **Inter** | [![GitHub stars](https://img.shields.io/github/stars/rsms/inter?style=social&color=white)](https://github.com/rsms/inter/stargazers) | OFL 1.1 | The world-standard UI typeface crafted for computer screens and interfaces |
-| 8 | **Hack** | [![GitHub stars](https://img.shields.io/github/stars/source-foundry/Hack?style=social&color=white)](https://github.com/source-foundry/Hack/stargazers) | MIT / OFL | Workhorse open-source monospace font engineered for source code clarity |
-| 9 | **JetBrains Mono** | [![GitHub stars](https://img.shields.io/github/stars/JetBrains/JetBrainsMono?style=social&color=white)](https://github.com/JetBrains/JetBrainsMono/stargazers) | OFL 1.1 | Free and open developer typeface crafted specifically for long reading comfort |
-| 10 | **IBM Plex** | [![GitHub stars](https://img.shields.io/github/stars/IBM/plex?style=social&color=white)](https://github.com/IBM/plex/stargazers) | OFL 1.1 | IBM's corporate design system typeface family (Sans, Serif, Mono, Multilingual) |
-| 11 | **Fontsource** | [![GitHub stars](https://img.shields.io/github/stars/fontsource/fontsource?style=social&color=white)](https://github.com/fontsource/fontsource/stargazers) | MIT | NPM package ecosystem for self-hosting open-source web fonts without CDN reliance |
-| 12 | **iA Writer Fonts** | [![GitHub stars](https://img.shields.io/github/stars/iaolo/iA-Fonts?style=social&color=white)](https://github.com/iaolo/iA-Fonts/stargazers) | OFL 1.1 | Typographic research duospace and variable monospace fonts by Information Architects |
-| 13 | **Roboto** | [![GitHub stars](https://img.shields.io/github/stars/googlefonts/roboto-2?style=social&color=white)](https://github.com/googlefonts/roboto-2/stargazers) | Apache 2.0 | Google's neo-grotesque geometric typeface family powering Android and Material UI |
-| 14 | **Source Sans** | [![GitHub stars](https://img.shields.io/github/stars/adobe-fonts/source-sans?style=social&color=white)](https://github.com/adobe-fonts/source-sans/stargazers) | OFL 1.1 | Adobe's first open-source sans-serif family designed for legibility in UI |
-| 15 | **Geist** | [![GitHub stars](https://img.shields.io/github/stars/vercel/geist-font?style=social&color=white)](https://github.com/vercel/geist-font/stargazers) | OFL 1.1 | Vercel's precision sans & mono typeface engineered for developer tools |
-| 16 | **Space Grotesk** | [![GitHub stars](https://img.shields.io/github/stars/floriankarsten/space-grotesk?style=social&color=white)](https://github.com/floriankarsten/space-grotesk/stargazers) | OFL 1.1 | Proportional neo-grotesque variable font based on Space Mono by Florian Karsten |
-| 17 | **League Gothic** | [![GitHub stars](https://img.shields.io/github/stars/theleagueof/league-gothic?style=social&color=white)](https://github.com/theleagueof/league-gothic/stargazers) | OFL 1.1 | Revival of Alternate Gothic No.1; classic condensed headline display typeface |
-| 18 | **League Spartan** | [![GitHub stars](https://img.shields.io/github/stars/theleagueof/league-spartan?style=social&color=white)](https://github.com/theleagueof/league-spartan/stargazers) | OFL 1.1 | Modern geometric sans-serif variable typeface with weights from ExtraLight to Black |
-| 19 | **Raleway** | [![GitHub stars](https://img.shields.io/github/stars/theleagueof/raleway?style=social&color=white)](https://github.com/theleagueof/raleway/stargazers) | OFL 1.1 | Elegant display sans-serif typeface designed with distinctive stylistic alternates |
-| 20 | **SIL Gentium** | [![GitHub stars](https://img.shields.io/github/stars/silnrsi/font-gentium?style=social&color=white)](https://github.com/silnrsi/font-gentium/stargazers) | OFL 1.1 | Reference multilingual typeface supporting Cyrillic, Greek, and under-resourced scripts |
+| 1 | **Fira Code** | [![GitHub_Stars](https://img.shields.io/github/stars/tonsky/FiraCode?style=social&color=white)](https://github.com/tonsky/FiraCode/stargazers) | OFL 1.1 | Free monospaced font with programming ligatures for code editors |
+| 2 | **Maple Mono** | [![GitHub_Stars](https://img.shields.io/github/stars/subframe7536/maple-font?style=social&color=white)](https://github.com/subframe7536/maple-font/stargazers) | OFL 1.1 | Rounded corner monospace font with ligatures and Nerd Font glyphs |
+| 3 | **Cascadia Code** | [![GitHub_Stars](https://img.shields.io/github/stars/microsoft/cascadia-code?style=social&color=white)](https://github.com/microsoft/cascadia-code/stargazers) | OFL 1.1 | Microsoft's modern coding font with variable weights & terminal ligatures |
+| 4 | **Iosevka** | [![GitHub_Stars](https://img.shields.io/github/stars/be5invis/Iosevka?style=social&color=white)](https://github.com/be5invis/Iosevka/stargazers) | OFL 1.1 | Slender, highly customizable monospace font family for programming & CJK |
+| 5 | **Google Fonts** | [![GitHub_Stars](https://img.shields.io/github/stars/google/fonts?style=social&color=white)](https://github.com/google/fonts/stargazers) | OFL / Apache | The world's largest open-source font catalog (1,500+ families) |
+| 6 | **Source Code Pro** | [![GitHub_Stars](https://img.shields.io/github/stars/adobe-fonts/source-code-pro?style=social&color=white)](https://github.com/adobe-fonts/source-code-pro/stargazers) | OFL 1.1 | Adobe's monospaced typeface family designed for IDEs and terminal environments |
+| 7 | **Inter** | [![GitHub_Stars](https://img.shields.io/github/stars/rsms/inter?style=social&color=white)](https://github.com/rsms/inter/stargazers) | OFL 1.1 | The world-standard UI typeface crafted for computer screens and interfaces |
+| 8 | **Hack** | [![GitHub_Stars](https://img.shields.io/github/stars/source-foundry/Hack?style=social&color=white)](https://github.com/source-foundry/Hack/stargazers) | MIT / OFL | Workhorse open-source monospace font engineered for source code clarity |
+| 9 | **JetBrains Mono** | [![GitHub_Stars](https://img.shields.io/github/stars/JetBrains/JetBrainsMono?style=social&color=white)](https://github.com/JetBrains/JetBrainsMono/stargazers) | OFL 1.1 | Free and open developer typeface crafted specifically for long reading comfort |
+| 10 | **IBM Plex** | [![GitHub_Stars](https://img.shields.io/github/stars/IBM/plex?style=social&color=white)](https://github.com/IBM/plex/stargazers) | OFL 1.1 | IBM's corporate design system typeface family (Sans, Serif, Mono, Multilingual) |
+| 11 | **Fontsource** | [![GitHub_Stars](https://img.shields.io/github/stars/fontsource/fontsource?style=social&color=white)](https://github.com/fontsource/fontsource/stargazers) | MIT | NPM package ecosystem for self-hosting open-source web fonts without CDN reliance |
+| 12 | **iA Writer Fonts** | [![GitHub_Stars](https://img.shields.io/github/stars/iaolo/iA-Fonts?style=social&color=white)](https://github.com/iaolo/iA-Fonts/stargazers) | OFL 1.1 | Typographic research duospace and variable monospace fonts by Information Architects |
+| 13 | **Roboto** | [![GitHub_Stars](https://img.shields.io/github/stars/googlefonts/roboto-2?style=social&color=white)](https://github.com/googlefonts/roboto-2/stargazers) | Apache 2.0 | Google's neo-grotesque geometric typeface family powering Android and Material UI |
+| 14 | **Source Sans** | [![GitHub_Stars](https://img.shields.io/github/stars/adobe-fonts/source-sans?style=social&color=white)](https://github.com/adobe-fonts/source-sans/stargazers) | OFL 1.1 | Adobe's first open-source sans-serif family designed for legibility in UI |
+| 15 | **Geist** | [![GitHub_Stars](https://img.shields.io/github/stars/vercel/geist-font?style=social&color=white)](https://github.com/vercel/geist-font/stargazers) | OFL 1.1 | Vercel's precision sans & mono typeface engineered for developer tools |
+| 16 | **Space Grotesk** | [![GitHub_Stars](https://img.shields.io/github/stars/floriankarsten/space-grotesk?style=social&color=white)](https://github.com/floriankarsten/space-grotesk/stargazers) | OFL 1.1 | Proportional neo-grotesque variable font based on Space Mono by Florian Karsten |
+| 17 | **League Gothic** | [![GitHub_Stars](https://img.shields.io/github/stars/theleagueof/league-gothic?style=social&color=white)](https://github.com/theleagueof/league-gothic/stargazers) | OFL 1.1 | Revival of Alternate Gothic No.1; classic condensed headline display typeface |
+| 18 | **League Spartan** | [![GitHub_Stars](https://img.shields.io/github/stars/theleagueof/league-spartan?style=social&color=white)](https://github.com/theleagueof/league-spartan/stargazers) | OFL 1.1 | Modern geometric sans-serif variable typeface with weights from ExtraLight to Black |
+| 19 | **Raleway** | [![GitHub_Stars](https://img.shields.io/github/stars/theleagueof/raleway?style=social&color=white)](https://github.com/theleagueof/raleway/stargazers) | OFL 1.1 | Elegant display sans-serif typeface designed with distinctive stylistic alternates |
+| 20 | **SIL Gentium** | [![GitHub_Stars](https://img.shields.io/github/stars/silnrsi/font-gentium?style=social&color=white)](https://github.com/silnrsi/font-gentium/stargazers) | OFL 1.1 | Reference multilingual typeface supporting Cyrillic, Greek, and under-resourced scripts |
 
 ---
 
@@ -99,11 +99,11 @@ Below is the collection of top open-source typography repositories and typeface 
 
 #### 🌐 Font Hubs & Self-Hosted Infrastructure
 
-- **[Google Fonts](https://github.com/google/fonts)** [![GitHub stars](https://img.shields.io/github/stars/google/fonts?style=social&color=white)](https://github.com/google/fonts/stargazers)  
+- **[Google Fonts](https://github.com/google/fonts)** [![GitHub_Stars](https://img.shields.io/github/stars/google/fonts?style=social&color=white)](https://github.com/google/fonts/stargazers)  
   *The undisputed leader in open-source font accessibility.* Housing **1,500+ font families** and **440+ type foundries**, all libre under the **SIL Open Font License** or Apache License. Features robust support for **Variable Fonts** (letting you smoothly adjust weights and optical sizes via single file downloads) and WOFF2 automatic format delivery.  
   *Best for*: Universal default starting point for free, high-performance web typography.
 
-- **[Fontsource](https://github.com/fontsource/fontsource)** [![GitHub stars](https://img.shields.io/github/stars/fontsource/fontsource?style=social&color=white)](https://github.com/fontsource/fontsource/stargazers)  
+- **[Fontsource](https://github.com/fontsource/fontsource)** [![GitHub_Stars](https://img.shields.io/github/stars/fontsource/fontsource?style=social&color=white)](https://github.com/fontsource/fontsource/stargazers)  
   *The NPM-based self-hosted font delivery standard.* Packages Google Fonts and open-source typefaces as individual, zero-dependency npm modules (`npm install @fontsource/inter`). Solves GDPR privacy and CDN performance bottlenecks by letting bundlers bundle font files directly into your production domain.  
   *Best for*: JavaScript/TypeScript developers using Vite, Next.js, Nuxt, or Webpack requiring compliance and zero external CDN calls.
 
@@ -115,19 +115,19 @@ Below is the collection of top open-source typography repositories and typeface 
 
 #### 💻 UI & Operating System Typefaces
 
-- **[Inter](https://github.com/rsms/inter)** [![GitHub stars](https://img.shields.io/github/stars/rsms/inter?style=social&color=white)](https://github.com/rsms/inter/stargazers)  
+- **[Inter](https://github.com/rsms/inter)** [![GitHub_Stars](https://img.shields.io/github/stars/rsms/inter?style=social&color=white)](https://github.com/rsms/inter/stargazers)  
   Crafted by Rasmus Andersson specifically for computer displays. Features a tall x-height, open apertures, and specialized contextual alternate glyphs designed to maintain extreme legibility at small sizes (10px–14px). Used by GitHub, Linear, Figma, and Mozilla.  
   *Best for*: Complex SaaS applications, dashboard UI, and design system defaults.
 
-- **[Geist](https://github.com/vercel/geist-font)** [![GitHub stars](https://img.shields.io/github/stars/vercel/geist-font?style=social&color=white)](https://github.com/vercel/geist-font/stargazers)  
+- **[Geist](https://github.com/vercel/geist-font)** [![GitHub_Stars](https://img.shields.io/github/stars/vercel/geist-font?style=social&color=white)](https://github.com/vercel/geist-font/stargazers)  
   Engineered by Vercel in collaboration with Basement Studio. Features high geometric precision, tight tracking, and exceptional monospace counterpart harmony (`Geist Mono`).  
   *Best for*: Modern developer platforms, documentation websites, and technical SaaS products.
 
-- **[IBM Plex](https://github.com/IBM/plex)** [![GitHub stars](https://img.shields.io/github/stars/IBM/plex?style=social&color=white)](https://github.com/IBM/plex/stargazers)  
+- **[IBM Plex](https://github.com/IBM/plex)** [![GitHub_Stars](https://img.shields.io/github/stars/IBM/plex?style=social&color=white)](https://github.com/IBM/plex/stargazers)  
   The complete corporate typographic voice of IBM. Spans four primary styles: Plex Sans, Plex Serif, Plex Mono, and Sans Condensed, with extensive global language coverage including Arabic, Devanagari, Hebrew, Thai, Japanese, and Korean.  
   *Best for*: Enterprise multi-platform design systems requiring serif and sans harmony.
 
-- **[Roboto](https://github.com/googlefonts/roboto-2)** [![GitHub stars](https://img.shields.io/github/stars/googlefonts/roboto-2?style=social&color=white)](https://github.com/googlefonts/roboto-2/stargazers)  
+- **[Roboto](https://github.com/googlefonts/roboto-2)** [![GitHub_Stars](https://img.shields.io/github/stars/googlefonts/roboto-2?style=social&color=white)](https://github.com/googlefonts/roboto-2/stargazers)  
   Developed by Christian Robertson for Android. Features dual-nature geometry: mechanical skeletons paired with friendly, open curves, preventing rhythmic fatigue during sustained screen reading.  
   *Best for*: Mobile applications and cross-platform responsive products.
 
@@ -135,23 +135,23 @@ Below is the collection of top open-source typography repositories and typeface 
 
 #### ⌨️ Coding & Monospace Typefaces
 
-- **[Fira Code](https://github.com/tonsky/FiraCode)** [![GitHub stars](https://img.shields.io/github/stars/tonsky/FiraCode?style=social&color=white)](https://github.com/tonsky/FiraCode/stargazers)  
+- **[Fira Code](https://github.com/tonsky/FiraCode)** [![GitHub_Stars](https://img.shields.io/github/stars/tonsky/FiraCode?style=social&color=white)](https://github.com/tonsky/FiraCode/stargazers)  
   The font that popularized programming ligatures in modern software development. Converts common multi-character sequences (`!=`, `===`, `=>`, `<!--`, `&&`) into single, visually cohesive glyphs without altering underlying text buffers.  
   *Best for*: Code editors, terminal emulators, and technical presentation slides.
 
-- **[Cascadia Code](https://github.com/microsoft/cascadia-code)** [![GitHub stars](https://img.shields.io/github/stars/microsoft/cascadia-code?style=social&color=white)](https://github.com/microsoft/cascadia-code/stargazers)  
+- **[Cascadia Code](https://github.com/microsoft/cascadia-code)** [![GitHub_Stars](https://img.shields.io/github/stars/microsoft/cascadia-code?style=social&color=white)](https://github.com/microsoft/cascadia-code/stargazers)  
   Microsoft's purposeful monospace font developed alongside Windows Terminal. Ships with cursive italic variants, programming ligatures, and complete box-drawing powerline glyphs.  
   *Best for*: Windows Terminal, PowerShell, VS Code, and Command Prompt workflows.
 
-- **[Iosevka](https://github.com/be5invis/Iosevka)** [![GitHub stars](https://img.shields.io/github/stars/be5invis/Iosevka?style=social&color=white)](https://github.com/be5invis/Iosevka/stargazers)  
+- **[Iosevka](https://github.com/be5invis/Iosevka)** [![GitHub_Stars](https://img.shields.io/github/stars/be5invis/Iosevka?style=social&color=white)](https://github.com/be5invis/Iosevka/stargazers)  
   An ultra-slender, open-source monospace font generated programmatically with custom build recipes. Excellent for split-screen coding where screen real estate is at a premium.  
   *Best for*: Multi-pane terminal users, Emacs/Vim hackers, and CJK technical documentation.
 
-- **[JetBrains Mono](https://github.com/JetBrains/JetBrainsMono)** [![GitHub stars](https://img.shields.io/github/stars/JetBrains/JetBrainsMono?style=social&color=white)](https://github.com/JetBrains/JetBrainsMono/stargazers)  
+- **[JetBrains Mono](https://github.com/JetBrains/JetBrainsMono)** [![GitHub_Stars](https://img.shields.io/github/stars/JetBrains/JetBrainsMono?style=social&color=white)](https://github.com/JetBrains/JetBrainsMono/stargazers)  
   Engineered by JetBrains with increased lowercase x-height and distinctive 138-degree character oval angles to alleviate developer eye strain during 8+ hour coding sessions.  
   *Best for*: Full-stack development in IntelliJ, WebStorm, VS Code, and Eclipse.
 
-- **[Source Code Pro](https://github.com/adobe-fonts/source-code-pro)** [![GitHub stars](https://img.shields.io/github/stars/adobe-fonts/source-code-pro?style=social&color=white)](https://github.com/adobe-fonts/source-code-pro/stargazers)  
+- **[Source Code Pro](https://github.com/adobe-fonts/source-code-pro)** [![GitHub_Stars](https://img.shields.io/github/stars/adobe-fonts/source-code-pro?style=social&color=white)](https://github.com/adobe-fonts/source-code-pro/stargazers)  
   Adobe's foundational monospace typeface designed by Paul D. Hunt. Renowned for its balanced proportions and crisp rendering across low-DPI and high-DPI displays alike.  
   *Best for*: UI design environments requiring reliable monospace components.
 
@@ -163,7 +163,7 @@ Below is the collection of top open-source typography repositories and typeface 
   The historic pioneer that launched the open-source typography movement in 2009. Creators of landmark free fonts including **League Gothic**, **League Spartan**, **Raleway**, and **Linden Hill**.  
   *Best for*: Editorial design, branding, and posters seeking authentic typographic craftsmanship.
 
-- **[SIL Fonts (Gentium, Charis, Doulos)](https://github.com/silnrsi/font-gentium)** [![GitHub stars](https://img.shields.io/github/stars/silnrsi/font-gentium?style=social&color=white)](https://github.com/silnrsi/font-gentium/stargazers)  
+- **[SIL Fonts (Gentium, Charis, Doulos)](https://github.com/silnrsi/font-gentium)** [![GitHub_Stars](https://img.shields.io/github/stars/silnrsi/font-gentium?style=social&color=white)](https://github.com/silnrsi/font-gentium/stargazers)  
   Published by SIL Global (Summer Institute of Linguistics). World-standard scholarly typefaces designed specifically to support under-resourced languages, complex writing systems, and the complete International Phonetic Alphabet (IPA).  
   *Best for*: Academic publishing, linguistics, and global minority language support.
 
@@ -201,7 +201,7 @@ Contributions to expand and refine this collection are always welcome! Here is h
    git checkout -b feature/add-new-font-project
    ```
 3. 📝 **Add your recommended typeface or platform**:
-   - For open-source repos: include repo link, star badge (`style=social&color=white` linking to stargazers), license, and description.
+   - For open-source repos: include repo link, Stars_Badge (`style=social&color=white` linking to stargazers), license, and description.
    - For SaaS products: include specific pricing starting tiers, specific free trial/forever limits, and valuation/size.
 4. 🧪 **Check formatting & links** to ensure markdown tables render properly.
 5. 🚀 **Submit a Pull Request** with a concise description of why the typeface or tool merits inclusion.
