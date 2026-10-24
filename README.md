@@ -1,6 +1,6 @@
 # Awesome-Typography-Typeface-Collection
 
-# Top Typography & Typeface Collection Ecosystem
+## Top Typography & Typeface Collection Ecosystem
 
 **Curated List of SaaS Products & Open-Source GitHub Projects**  
 *Focused on SIL Open Font License Libraries, Variable Font Axes & Self-Hosted Font Distribution*  
