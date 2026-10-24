@@ -68,9 +68,9 @@ Open-source typefaces and self-hosting tools give developers and designers unres
 
 ### ⭐ Open-Source Projects Sorted by Stars
 
-Below is the collection of top open-source typography repositories and typeface families, ranked in descending order by **GitHub Stars_Count**:
+Below is the collection of top open-source typography repositories and typeface families, ranked in descending order by **GitHub_Stars_Count**:
 
-| # | 🔤 Project / Typeface | 🌟 GitHub Stars_Badge (Social) | 📜 License | 🎯 Category / Focus |
+| # | 🔤 Project / Typeface | 🌟 GitHub_Stars_Badge (Social) | 📜 License | 🎯 Category / Focus |
 | :---: | :--- | :--- | :---: | :--- |
 | 1 | **Fira Code** | [![GitHub_Stars](https://img.shields.io/github/stars/tonsky/FiraCode?style=social&color=white)](https://github.com/tonsky/FiraCode/stargazers) | OFL 1.1 | Free monospaced font with programming ligatures for code editors |
 | 2 | **Maple Mono** | [![GitHub_Stars](https://img.shields.io/github/stars/subframe7536/maple-font?style=social&color=white)](https://github.com/subframe7536/maple-font/stargazers) | OFL 1.1 | Rounded corner monospace font with ligatures and Nerd Font glyphs |
