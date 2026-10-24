@@ -234,3 +234,73 @@ Thank you for exploring the **Awesome Typography & Typeface Collection**! If thi
 Let's make digital typography beautiful, performant, and open for everyone! 🚀
 # Awesome-Typography-Typeface-Collection
 
+# Top Typography & Typeface Collection Ecosystem
+
+**Curated List of SaaS Products & Open-Source GitHub Projects**  
+*Focused on SIL Open Font License Libraries, Variable Font Axes & Self-Hosted Font Distribution*  
+**Last updated: March 2026**
+
+This repository tracks notable **SaaS platforms** and **open-source projects** for **Typography & Typeface Collections**. These tools provide the raw material of visual design — typefaces — as curated libraries, foundry catalogs, or self-hosted distributions, with a spectrum running from commercial font empires to open-source libraries where every glyph is licensed for any use, including commercial products and logos.
+
+**Examples** include Google Fonts, Fontsource, IBM Plex, Beautiful Web Type, and The League of Moveable Type (the category leaders).
+
+**Open-source emphasis**: This section is heavily expanded with every major active project for self-hosting, permissive licensing, and variable font delivery — ideal for designers who need professional typography without per-desktop or per-pageview licensing fees, and developers who want fonts as installable dependencies rather than CDN links.
+
+Contributions welcome! Open a PR to add/update entries. Keep descriptions factual and link to official sites.
+
+## Table of Contents
+- [SaaS/Hosted Platforms](#saas-hosted-platforms)
+- [Open-Source GitHub Projects](#open-source-github-projects)
+- [How to Contribute](#how-to-contribute)
+- [Disclaimer](#disclaimer)
+
+## SaaS/Hosted Platforms
+
+- **Adobe Fonts** — **The Creative Cloud type library.** Includes fonts from major foundries and **Adobe's own open-source families** — Source Sans, Source Code, Source Serif, and Source Han Sans — whose source files are available on GitHub [citation:9]. **Included with Creative Cloud subscriptions**. **Best for Adobe subscribers** wanting licensed commercial fonts without separate purchasing, though the fonts are tied to the subscription and not self-hostable outside Adobe's terms.
+
+- **Monotype Fonts** — Enterprise font licensing platform with a vast catalog of commercial typefaces. **Subscription-based** with brand compliance controls. **Best for large organizations** needing licensed commercial fonts with governance, not for open-source-first workflows.
+
+## Open-Source GitHub Projects
+
+- **Google Fonts** — **The largest open-source font library.** **All fonts are released as open-source under either the SIL Open Font License 1.1 or Apache License 2.0** [citation:10]. **Variable fonts** are widely supported, letting you adjust weight axes in a single file. **The reputation has shifted**: once considered a novelty library, it now includes excellent UI choices — **Inter, Roboto Flex, DM Sans, Plus Jakarta Sans, Nunito Sans, IBM Plex Sans** [citation:10]. **Self-hosting** is supported via the GitHub repository or **Fontsource** npm packages. **Best for essentially any project** needing a free, high-quality, commercially usable typeface — the default starting point for open-source typography.
+
+- **Fontsource** — **The NPM-based self-hosted font delivery standard.** **Packages open-source fonts as installable npm modules** — `npm install @fontsource/open-sans` — so fonts are bundled into your build rather than fetched from a third-party CDN [citation:11]. **Solves the privacy and performance issues** of Google Fonts CDN requests: **self-hosting eliminates the extra DNS resolution and TCP connection establishment** that doubles visual load times on simple sites, and **fonts remain version locked** so Google's unannounced updates can't break production [citation:11]. **Supports fonts outside the Google Font ecosystem**, including variable fonts. **Most fonts use SIL OFL 1.1; some use Apache 2; Ubuntu fonts use the Ubuntu Font License** . **Best for JavaScript/TypeScript projects** where build-time font embedding fits the bundler workflow.
+
+- **IBM Plex** — **The corporate typeface family released as open source.** **Licensed under SIL Open Font License 1.1** — free for personal and commercial use, including web embedding, derivative fonts, and app/game bundling [citation:1]. **IBM Plex Serif was made variable in February 2026**, with a weight axis from 100 to 700 and eight defined instances (Thin through Bold) plus italics [citation:1]. **The family includes Sans, Serif, Mono, and Condensed variants** [citation:3]. **Best for teams wanting a cohesive, professionally-designed corporate superfamily** with full open-source licensing and variable font support.
+
+- **Beautiful Web Type** — **The curated guide to the best open-source typefaces.** **Every featured typeface is licensed under the SIL Open Font License** [citation:3]. **In-depth specimen pages** catalog all available weights and styles, the full glyph set, kerning quality, OpenType features, and recommended pairings [citation:3]. **Featured families include** Alegreya, Archivo, Crimson Pro, Fira Code, Fraunces, IBM Plex, Inter, Lora, Playfair Display, Poppins, Source Sans/Serif/Code, Space Grotesk, and Work Sans [citation:3]. **Best for designers** wanting a vetted shortlist of high-quality open-source typefaces with pairing guidance, rather than browsing a sprawling catalog.
+
+- **The League of Moveable Type** — **The original open-source foundry.** **The first free and open-source type foundry**, curated by typographers pushing libre typography into professional territory. **Families include League Gothic, Raleway, Orbitron, and Junction** — a humanist sans-serif that was the league's first project [citation:5][citation:12]. **Available on Google Fonts and Adobe Fonts**. **Best for designers wanting a curated, professionally-minded libre collection** with the credibility of the original open-source foundry movement.
+
+- **SIL Writing Systems Technology (SIL Fonts)** — **The specialist libre font repository for under-resourced scripts.** From **SIL Global**, providing fonts for **Arabic, Devanagari, Ethiopic, Cyrillic, Greek, and many more** — scripts that mainstream libraries often neglect [citation:6]. **All under the SIL Open Font License 1.1**, with families including **Scheherazade (Arabic), Lateef (Arabic), Doulos SIL, Charis SIL, and Andika (literacy-focused)** [citation:6]. **Best for multilingual typography** where broad script coverage matters more than display aesthetics — the reference for underserved language support.
+
+- **Kurinto Font Folio** — **The academic publishing font collection with near-universal character coverage.** **A large collection of free fonts that include most of the characters in every human language** — designed for academic publishing, especially Word-to-PDF workflows with non-European text . **SIL Open Font License 1.1** — free for commercial use, embedding in digital documents, and bundling for redistribution . **Addresses publishing pitfalls**: costly fonts with restrictions, irregular line heights, missing characters (□□□), and incompatible formats . **Best for academic authors and multilingual publishing** where broad Unicode coverage and consistent metrics matter more than display aesthetics.
+
+### Additional Strong Open-Source Options
+
+- **Junction** — A humanist sans-serif and the first open-source type project started by The League of Moveable Type, updated in 2014 with additional weights and expanded international support [citation:5]. Best for designers wanting a foundational libre sans-serif with historical significance.
+- **Open Sauce Fonts** — A compact typeface superfamily (Sans, One, Two) optimized for small text on screen and print, under the SIL Open Font License [citation:8]. Best for UI and small-text applications needing a tight, screen-optimized family.
+- **Public Sans** — A strong, neutral, principles-driven open-source typeface for text or display, from the U.S. Web Design System [citation:8]. Best for government and civic projects needing a neutral, accessible default.
+- **Fontmatrix** — A featureful personal font manager for Linux with tagging, glyph inspection, OpenType feature display, and PDF catalog generation [citation:2]. Best for designers managing large local font libraries on Linux.
+
+**Frameworks for building custom systems**: Combine **Google Fonts** for the broadest open-source catalog with variable font support, **Fontsource** for self-hosted npm-based delivery with version locking and privacy, **IBM Plex** for a cohesive corporate superfamily with variable axes, **Beautiful Web Type** for curated vetted selections with pairing guidance, and **Kurinto Font Folio** for near-universal language coverage in academic publishing — to build a typography stack tailored to your need for catalog breadth versus curation, self-hosting versus CDN convenience, and script coverage requirements.
+
+## How to Contribute
+
+1. Fork the repo.
+2. Add/edit entries in `README.md` (follow existing format).
+3. Include: name, link, 1–2 sentence description, and whether it's SaaS or open-source.
+4. Submit PR with a short explanation.
+
+Star the repo if you find it useful!
+
+## Disclaimer
+
+- This is a **community-curated** list — not exhaustive and not an endorsement.
+- Typography collections differ significantly in licensing, script coverage, and delivery model. **Google Fonts is the broadest open-source library** with all fonts under SIL OFL 1.1 or Apache 2.0 and commercial-use permission [citation:10], but **its CDN requests raise privacy and compliance concerns** — Fontsource solves this by packaging fonts for self-hosting with version locking and offline capability [citation:11]. **IBM Plex is SIL OFL 1.1 licensed** with variable font support for Serif as of February 2026, but the Japanese language is not included in the variable Serif release [citation:1]. **Beautiful Web Type only features typefaces the maintainer considers high-quality** — it is a curated guide, not a complete catalog [citation:3]. **SIL Fonts is the reference for under-resourced scripts** but not a display typography source [citation:6]. **Kurinto is optimized for academic publishing** with broad Unicode coverage, not for display or branding work . **Variable fonts** reduce HTTP requests and file size while offering fine-grained weight control, but not all fonts offer variable axes.
+- Self-hosted open-source solutions require proper WOFF2 serving, CORS headers for cross-origin font files, and awareness that font licensing (even OFL) may require attribution or restrict resale of the fonts themselves.
+
+---
+
+**Made for designers and developers choosing typefaces that match their licensing needs, script coverage, and delivery constraints.**
+Let's make typography and typeface collections more open, commercially usable, and script-inclusive.
